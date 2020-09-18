@@ -1,6 +1,9 @@
 # Jogo_Da_Velha
+
 Aluno: Fabricio Adriano da Cruz
+
 Trabalho das matérias: Técnicas de Programação II e Algoritmos II
+
 Istituição de Ensino: UNIVÁS
 
 Este respositório contém o Jogo da Velha desenvolvido nas linguagens JAVA e Portugol como parte de um trabalho das matérias de Técnicas de Programação e Algoritmos respectivamente.
